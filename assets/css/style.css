@@ -1,0 +1,16 @@
+#loading{
+    display: none;
+    margin: 10px
+}
+
+.nav-pills{
+    margin: 10px
+}
+
+#result-alert {
+    display: none
+}
+
+.loading-img {
+    width:40px
+}
